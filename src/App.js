@@ -1,7 +1,13 @@
 import Navigation from './components/Navigation.js';
-import Home from './components/Home.js'
-import Projects from './components/Projects.js'
+import Home from './components/Home.js';
+import AboutMe from './components/AboutMe.js';
+import Appreciations from './components/Appreciations.js';
+import Breifcase from './components/Briefcase.js';
+import Contact from './components/Contact.js';
+import Services from './components/Services.js';
+
 import './App.css';
+
 
 function App() {
   return (
@@ -10,10 +16,13 @@ function App() {
           <Navigation/>
         </header>
 
-
-        
         <Home/>
-        <Projects/>
+        <AboutMe/>
+        <Services/>
+        <Breifcase/>
+        <Appreciations/>
+        <Contact/>
+        
     </div>
   );
 }

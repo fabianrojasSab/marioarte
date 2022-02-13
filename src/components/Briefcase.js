@@ -1,13 +1,13 @@
 import { Container, Row } from 'react-bootstrap';
 
-function Projects(){
+function Breifcase(){
     return(
         <Container fluid className="App-body">
             <Row>
-                <h2>Escultor, pintor y amante del arte</h2>
+                <h2>portafolio</h2>
             </Row> 
         </Container>
     );
 }
 
-export default Projects ;
+export default Breifcase ;
