@@ -3,9 +3,22 @@
   font-size: calc(10px + 2vmin);
 }
 
+
+
 .navigation-img {
   margin: 10px;
   border-radius: 20%;
+  display: none;
+}
+
+@media only screen and (min-width: 600px) {
+
+  .navigation-img {  display: inline-block;}
+}
+
+@media only screen and (max-width: 600px) {
+
+  .navigation-txt {    text-align: center;  display: inline-block;  width: 79%;}
 }
 
 .App-body {
@@ -14,15 +27,22 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+  padding-top: 50px;
 }
 
 .App-body-home {
   background-image: url("./storage/backgrounds/bg_1.jpg");
   align-items: center;
+  font-size: calc(10px + 2vmin);
 }
 
 .App-body-about {
+  background-image: url("./storage/img_1.jpg");
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-body-services {
   text-align: center;
 }

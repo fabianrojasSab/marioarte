@@ -13,7 +13,7 @@ Su obra se encuentra en países como estados unidos, México, argentina, panamá
                 </p>
                 </Col>
                 <Col>
-                    <img src={img1}  width="100%"  height="100%" className="img-fluid"  />
+                    <img src={img1}  width="100%"  height="100%" className="img-fluid" alt='foto' />
                 </Col>
             </Row> 
         </Container>
