@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/marioarte/static/css/main.fc096cc0.css",
-    "main.js": "/marioarte/static/js/main.ac9fc0fa.js",
+    "main.css": "/marioarte/static/css/main.66902446.css",
+    "main.js": "/marioarte/static/js/main.6024eb2d.js",
     "static/js/787.6cf0f7cb.chunk.js": "/marioarte/static/js/787.6cf0f7cb.chunk.js",
-    "static/media/img_1.jpg": "/marioarte/static/media/img_1.f5ff98ded1fe6e686130.jpg",
+    "static/media/img_1.jpg": "/marioarte/static/media/img_1.056d9b85e93a58faa9ee.jpg",
     "static/media/logo.jpg": "/marioarte/static/media/logo.74841539fde1e42ab30f.jpg",
+    "static/media/img_3.jpg": "/marioarte/static/media/img_3.e01063375379f0b84d6d.jpg",
     "static/media/bg_1.jpg": "/marioarte/static/media/bg_1.96f14ff502bd0fd1fb69.jpg",
+    "static/media/img_2.jpg": "/marioarte/static/media/img_2.0cc0427258d69b04779f.jpg",
     "index.html": "/marioarte/index.html",
-    "main.fc096cc0.css.map": "/marioarte/static/css/main.fc096cc0.css.map",
-    "main.ac9fc0fa.js.map": "/marioarte/static/js/main.ac9fc0fa.js.map",
+    "main.66902446.css.map": "/marioarte/static/css/main.66902446.css.map",
+    "main.6024eb2d.js.map": "/marioarte/static/js/main.6024eb2d.js.map",
     "787.6cf0f7cb.chunk.js.map": "/marioarte/static/js/787.6cf0f7cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc096cc0.css",
-    "static/js/main.ac9fc0fa.js"
+    "static/css/main.66902446.css",
+    "static/js/main.6024eb2d.js"
   ]
 }
