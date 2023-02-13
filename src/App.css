@@ -4,12 +4,12 @@
 }
 
 
-
 .navigation-img {
   margin: 10px;
   border-radius: 20%;
   display: none;
 }
+
 
 @media only screen and (min-width: 600px) {
 
@@ -44,5 +44,32 @@
 }
 
 .App-body-services {
+  text-align: -moz-center;
+}
+
+.App-body-briefcase {
+  
+}
+
+.App-body-appreciations {
+  color: white;
   text-align: center;
+}
+
+.App-body-contact {
+  background-color: #e95302;
+  color: white;
+  text-align: center;
+  
+}
+
+.contact-img {
+  margin: 5px;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.contact-icons {
+  background-color: #383838;
+  
 }
