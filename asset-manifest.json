@@ -1,20 +1,37 @@
 {
   "files": {
-    "main.css": "/marioarte/static/css/main.66902446.css",
-    "main.js": "/marioarte/static/js/main.6024eb2d.js",
+    "main.css": "/marioarte/static/css/main.4356c3da.css",
+    "main.js": "/marioarte/static/js/main.49582093.js",
     "static/js/787.6cf0f7cb.chunk.js": "/marioarte/static/js/787.6cf0f7cb.chunk.js",
-    "static/media/img_1.jpg": "/marioarte/static/media/img_1.056d9b85e93a58faa9ee.jpg",
+    "static/media/img_1.jpg": "/marioarte/static/media/img_1.f5ff98ded1fe6e686130.jpg",
+    "static/media/img_8.jpeg": "/marioarte/static/media/img_8.538fb70e7d4d09ea6f37.jpeg",
+    "static/media/img_3.jpeg": "/marioarte/static/media/img_3.6ad78705e29a79592367.jpeg",
+    "static/media/img_5.jpeg": "/marioarte/static/media/img_5.a6f76800b26281365fe8.jpeg",
+    "static/media/img_11.jpeg": "/marioarte/static/media/img_11.7f45f8a6418c87481da0.jpeg",
+    "static/media/img_1.jpeg": "/marioarte/static/media/img_1.4c4e0e211275697b1a0c.jpeg",
+    "static/media/img_7.jpeg": "/marioarte/static/media/img_7.93c65b9fc49ae346e248.jpeg",
+    "static/media/img_6.jpeg": "/marioarte/static/media/img_6.f48113847dbc3162168c.jpeg",
+    "static/media/img_13.jpeg": "/marioarte/static/media/img_13.979c3ef3919f12bc26e2.jpeg",
+    "static/media/bg_4.jpeg": "/marioarte/static/media/bg_4.94d302a98c316a750dbb.jpeg",
+    "static/media/img_14.jpeg": "/marioarte/static/media/img_14.9a34c565c8f1f79aec1f.jpeg",
+    "static/media/img_12.jpeg": "/marioarte/static/media/img_12.38db57717874f44177f3.jpeg",
+    "static/media/img_2.jpeg": "/marioarte/static/media/img_2.e63cc8a962704cf14f26.jpeg",
+    "static/media/img_4.jpeg": "/marioarte/static/media/img_4.4ef952cd959a19fa9fb7.jpeg",
+    "static/media/img_9.jpeg": "/marioarte/static/media/img_9.ac9b2c739893c70b422b.jpeg",
+    "static/media/img_10.jpeg": "/marioarte/static/media/img_10.5c32c00e9f1703040c36.jpeg",
+    "static/media/bg_2.jpeg": "/marioarte/static/media/bg_2.5f879dda471f94c8128e.jpeg",
     "static/media/logo.jpg": "/marioarte/static/media/logo.74841539fde1e42ab30f.jpg",
-    "static/media/img_3.jpg": "/marioarte/static/media/img_3.e01063375379f0b84d6d.jpg",
+    "static/media/whatsapp_icon.jpeg": "/marioarte/static/media/whatsapp_icon.71ea7bcce6c411a13432.jpeg",
     "static/media/bg_1.jpg": "/marioarte/static/media/bg_1.96f14ff502bd0fd1fb69.jpg",
-    "static/media/img_2.jpg": "/marioarte/static/media/img_2.0cc0427258d69b04779f.jpg",
+    "static/media/facebook_icon.jpeg": "/marioarte/static/media/facebook_icon.e8c488a0ce490829abf2.jpeg",
+    "static/media/instagram_icon.jpeg": "/marioarte/static/media/instagram_icon.ca1f58e90d1a1f968773.jpeg",
     "index.html": "/marioarte/index.html",
-    "main.66902446.css.map": "/marioarte/static/css/main.66902446.css.map",
-    "main.6024eb2d.js.map": "/marioarte/static/js/main.6024eb2d.js.map",
+    "main.4356c3da.css.map": "/marioarte/static/css/main.4356c3da.css.map",
+    "main.49582093.js.map": "/marioarte/static/js/main.49582093.js.map",
     "787.6cf0f7cb.chunk.js.map": "/marioarte/static/js/787.6cf0f7cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66902446.css",
-    "static/js/main.6024eb2d.js"
+    "static/css/main.4356c3da.css",
+    "static/js/main.49582093.js"
   ]
 }
